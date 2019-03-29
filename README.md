@@ -1,5 +1,5 @@
 # TextureLayoutLoopExample
-The simplest example I can come up with that shows a infinite layout loop in Texture
+The simplest example I could come up with that shows a infinite layout loop in Texture
 
 I found a layout loop in Texture dealing with nodes in a UINavigationItem's titleView. The steps are rougly:
 1) Create a ASDisplayNode with a subnode (I used a button) and set it as a VC's navigationItem's titleView.
